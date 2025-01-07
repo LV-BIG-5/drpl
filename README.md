@@ -431,13 +431,3 @@ scipy >= 1.7.3 （自定义Env数值积分）
 shapely >= 2.0.1 （自定义Env障碍表示）
 
 matplotlib >= 3.5.1 （自定义Env可视化）
-
-###### 广告：
-
-[Path-Planning: 路径规划算法，A*、Dijstra、Hybrid A*等经典路径规划](https://github.com/zhaohaojie1998/A-Star-for-Path-Planning)
-
-<img src="图片/ad1.png" style="zoom: 67%;" />
-
-[Grey-Wolf-Optimizer-for-Path-Planning: 灰狼优化算法路径规划、多智能体/多无人机航迹规划](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)
-
-<img src="图片/ad2.png" style="zoom: 50%;" />
