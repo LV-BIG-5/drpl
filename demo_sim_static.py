@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-路径搜索示例 (单观测)
- Created on Wed Mar 13 2024 18:18:07
- Modified on 2024-3-13 18:18:07
- 
- @auther: HJ https://github.com/zhaohaojie1998
-"""
-#
+
 
 # 1.环境实例化
 from path_plan_env import StaticPathPlanning, NormalizedActionsWrapper

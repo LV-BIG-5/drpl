@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-RL类型提示
- Created on Sat Nov 04 2023 15:37:28
- Modified on 2023-11-4 15:37:28
- 
- @auther: HJ https://github.com/zhaohaojie1998
-"""
+
 import numpy as np
 import torch as th
 from gym import spaces

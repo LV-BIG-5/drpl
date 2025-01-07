@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-策略训练示例
- Created on Sat Nov 04 2023 15:37:28
- Modified on 2023-11-4 15:37:28
- 
- @auther: HJ https://github.com/zhaohaojie1998
-"""
-#
+
 
 
 '''算法定义'''

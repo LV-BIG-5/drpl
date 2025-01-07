@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-路径规划强化学习环境
- Created on Tue May 16 2023 17:54:17
- Modified on 2023-8-02 17:38:00
- 
- @auther: HJ https://github.com/zhaohaojie1998
-"""
+
 #
 import gym
 import math

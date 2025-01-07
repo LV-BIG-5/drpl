@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-SAC-Auto算法
- Created on Fri Mar 03 2023 19:58:10
- Modified on 2023-3-3 19:58:
-     
- @auther: HJ https://github.com/zhaohaojie1998
-"""
+
 # Runing on GPU #
 from rl_typing import *
 from abc import abstractmethod

@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-动力学路径规划示例 (混合观测)
- Created on Wed Mar 13 2024 18:18:07
- Modified on 2024-3-13 18:18:07
- 
- @auther: HJ https://github.com/zhaohaojie1998
-"""
-#
+
 
 # 1.环境实例化
 from path_plan_env import DynamicPathPlanning

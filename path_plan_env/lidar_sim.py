@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Aug  1 18:00:37 2023
 
-@author: HJ
-"""
 
 import numpy as np
 from shapely import affinity
